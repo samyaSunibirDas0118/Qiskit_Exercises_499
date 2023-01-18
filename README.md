@@ -1,1 +1,1 @@
-<h3> Contains all the qiskit exercises that were assigned to us while we were studying Quantum Computing during CSE499A (Senior Capstone Course) before we implemented our senior capstone project based on Quantum GANs at NSU </h3>
+<h3> Contains all the qiskit exercises that were assigned to us while we were studying Quantum Computing during CSE499A (Senior Capstone Course) before we implemented our senior capstone project based on Quantum GANs in CSE499B at NSU </h3>
